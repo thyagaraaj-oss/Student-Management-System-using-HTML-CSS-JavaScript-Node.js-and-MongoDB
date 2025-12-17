@@ -1,0 +1,8 @@
+{
+  "_id": "65abc123",
+  "name": "Ravi",
+  "email": "ravi@gmail.com",
+  "department": "CSE",
+  "year": 3,
+  "cgpa": 8.5
+}
